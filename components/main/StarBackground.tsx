@@ -45,7 +45,7 @@ const StarsCanvas = () => (
         <Suspense fallback={null}>
             <StarBackground />
         </Suspense>
-        </Canvas>
+      </Canvas>
     </div>
 )
 
