@@ -64,8 +64,8 @@ const Footer = () => {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">About</div>
             <a 
-              href="/Sindooja_Resume.pdf" 
-              download="Sindooja_Resume.pdf"
+              href="/Sindooja_resume.pdf" 
+              download="Sindooja_resume.pdf"
               className="flex flex-row items-center my-[15px] cursor-pointer hover:text-cyan-400 transition"
             >
               <span className="text-[15px] ml-[6px]">Learn about me</span>    
