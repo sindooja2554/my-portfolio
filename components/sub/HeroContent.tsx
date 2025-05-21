@@ -25,7 +25,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            MERN Stack Developer
+            Full Stack Developer
           </h1>
         </motion.div>
 
@@ -47,7 +47,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Passionate Software Engineer with MERN Stack Expertise, Crafting Innovative Solutions with a Growth-Driven Mindset. Check out my projects and skills.
+          Passionate Software Engineer with Full Stack Expertise, Crafting Innovative Solutions with a Growth-Driven Mindset. Check out my projects and skills.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
